@@ -1,0 +1,5 @@
+// React Native usa eslint, prettier e flow para validação e formatação de código
+
+{
+    "javascript.validate.enable": false
+}
